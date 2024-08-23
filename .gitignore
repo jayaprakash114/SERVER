@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Build directories
+dist/
+build/
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package-lock and yarn lock
+package-lock.json
+yarn.lock
+
+# NPM package lock file
+package-lock.json
+
+# Yarn
+.yarn/
+.yarnrc
+
+# Miscellaneous
+*.tgz
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+
+# Coverage directory used by tools like istanbul
+coverage/
